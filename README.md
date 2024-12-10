@@ -54,4 +54,4 @@ This project analyzes app performance using Python to process 7 days of app logs
    ```
    pip install pandas matplotlib seaborn numpy
    ```
-2. Run all the cells
+2. Run all the cells: After installing the necessary packages, run all cells in the notebook to ensure that all code runs successfully.
